@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with GitHub Copilot CLI – A Complete Guide"
 description: "Learn what GitHub Copilot CLI is, how to install and use it, common errors, and tips to get the most out of it."
-author: "Your Name"
+author: "Amit Rana"
 date: 2025-09-30
 ---
 
