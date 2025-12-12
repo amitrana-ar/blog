@@ -30,7 +30,7 @@ This guide works for:
     - [11. Reattach to Original EC2](#step-11--reattach-the-volume-to-original-ec2)
     - [12. Start Instance + Login](#step-12--start-original-ec2-and-login)
 4. [Summary Cheat Sheet](#summary-cheat-sheet)
-5. [License](#license)
+
 
 ---
 
@@ -233,5 +233,3 @@ ssh -i recovery-key.pem ec2-user@<public-ip>
 
 ---
 
-# License
-This project is released under the **MIT License**.
